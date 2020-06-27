@@ -1,0 +1,542 @@
+2020-06-24T09:29:44+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4558
+
+2020-06-24T09:31:00+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4555
+
+2020-06-24T09:31:26+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4553
+
+2020-06-24T09:31:31+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4553
+
+2020-06-24T09:32:35+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4556
+
+2020-06-24T09:32:40+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4556
+
+2020-06-24T09:33:30+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4555
+
+2020-06-24T09:33:33+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4555
+
+2020-06-24T09:33:33+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4555
+
+2020-06-24T09:40:54+00:00 CRITICAL syntax error, unexpected '<' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4292
+
+2020-06-24T09:42:51+00:00 CRITICAL syntax error, unexpected end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4374
+
+2020-06-24T10:10:22+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:25+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:25+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:25+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:26+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:26+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:26+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:29+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:29+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:29+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:29+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:29+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:32+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:32+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:32+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:32+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:33+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:34+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:34+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:34+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:34+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:35+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:36+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:49+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:52+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:52+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:52+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:52+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:52+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:53+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:54+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:54+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:54+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:54+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:57+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:57+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:58+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:10:58+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:00+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:00+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:00+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:00+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:01+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:01+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:01+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:16+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:19+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:19+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:19+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:20+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:22+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:22+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:22+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:22+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:24+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:24+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:24+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:24+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:25+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:25+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:27+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:27+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:27+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:27+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+
+2020-06-24T10:11:27+00:00 CRITICAL Uncaught Error: Call to undefined function post_thumbnail() in C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php:4296
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-includes\template-loader.php(98): include()
+#1 C:\wamp64\www\wordpress\wp-blog-header.php(19): require_once('C:\\wamp64\\www\\w...')
+#2 C:\wamp64\www\wordpress\index.php(17): require('C:\\wamp64\\www\\w...')
+#3 {main}
+  thrown در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 4296
+

@@ -1,0 +1,78 @@
+2020-06-27T05:13:58+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:00+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:01+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:01+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:01+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:02+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:02+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:02+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:14:03+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:16:51+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:17:55+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:18:19+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:19:28+00:00 CRITICAL syntax error, unexpected ''home'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:20:00+00:00 CRITICAL syntax error, unexpected ''home'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:20:10+00:00 CRITICAL syntax error, unexpected ''3'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:21:56+00:00 CRITICAL syntax error, unexpected '=', expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:21:59+00:00 CRITICAL syntax error, unexpected '=', expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 38
+
+2020-06-27T05:29:36+00:00 CRITICAL syntax error, unexpected '<', expecting end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 22
+
+2020-06-27T05:29:48+00:00 CRITICAL syntax error, unexpected '<', expecting end of file در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 22
+
+2020-06-27T05:32:59+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:32:59+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:32:59+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:32:59+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:00+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:00+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:01+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:01+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:01+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:01+00:00 CRITICAL syntax error, unexpected '++' (T_INC), expecting ')' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 24
+
+2020-06-27T05:33:12+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 26
+
+2020-06-27T05:33:18+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 26
+
+2020-06-27T05:40:49+00:00 CRITICAL Cannot use [] for reading در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 26
+
+2020-06-27T05:41:12+00:00 CRITICAL Cannot use [] for reading در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 25
+
+2020-06-27T05:41:15+00:00 CRITICAL Cannot use [] for reading در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 25
+
+2020-06-27T05:41:26+00:00 CRITICAL Cannot use [] for reading در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 25
+
+2020-06-27T05:45:36+00:00 CRITICAL Cannot use [] for reading در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 52
+
+2020-06-27T08:44:09+00:00 CRITICAL syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 49
+
+2020-06-27T08:52:25+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 56
+
+2020-06-27T09:02:22+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) در C:\wamp64\www\wordpress\wp-content\themes\arshitashop-wp\index.php در خط 57
+
